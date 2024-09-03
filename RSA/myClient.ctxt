@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=myClient
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ myClient.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pServerIP\ pServerPort
+comment1.target=myClient(java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ myClient\r\n
+comment2.params=pMessage
+comment2.target=void\ processMessage(java.lang.String)
+comment3.params=pMessage
+comment3.target=void\ schicken(java.lang.String)
+numComments=4

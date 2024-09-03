@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=myServer
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ myServer.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pServerPort\ PZ1\ PZ2
+comment1.target=myServer(int,\ int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ myServer\r\n
+comment2.params=pClientIP\ pClientPort
+comment2.target=void\ processNewConnection(java.lang.String,\ int)
+comment3.params=pClientIP\ pClientPort\ pMessage
+comment3.target=void\ processMessage(java.lang.String,\ int,\ java.lang.String)
+comment4.params=pClientIP\ pClientPort
+comment4.target=void\ processClosingConnection(java.lang.String,\ int)
+numComments=5
